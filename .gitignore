@@ -1,0 +1,11 @@
+node_modules/
+dist/
+*.log
+.env
+.DS_Store
+
+# Banco de dados local (dados reais — NUNCA subir)
+apps/server/src/data/
+apps/server/data/
+*.db
+*.sqlite*
